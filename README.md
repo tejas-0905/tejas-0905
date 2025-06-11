@@ -136,7 +136,7 @@ I specialize in building responsive and dynamic websites using modern web techno
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&locale=en&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-0905&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejas-0905&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&locale=en&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-0905&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" align="center" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejas-0905&theme=tokyonight&hide_border=true" alt="GitHub Streak" align="center" />
 </p>
