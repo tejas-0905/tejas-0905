@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tejas-0905/Dynamic-Github-Profile/main/Banner.png" alt="Tejas Profile Banner"/>
-</p>
+
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=tejas-0905&label=PROFILE+VIEWS&color=0066CC&style=flat" alt="Profile views"/>
@@ -32,23 +30,28 @@
 
 ---
 
-### 👨‍💻 About Me
+### <p align="center">👨‍💻 About Me</p>
 
-I am a detail-oriented professional who bridges the gap between **data analytics** and **web development**. My passion lies in transforming raw data into actionable insights through intuitive dashboards and crafting responsive, user-friendly web experiences.
+<p align="center">
+  I am a detail-oriented professional who bridges the gap between <b>data analytics</b> and <b>web development</b>. 
+  <br/>
+  My passion lies in transforming raw data into actionable insights through intuitive dashboards and crafting responsive, user-friendly web experiences.
+</p>
 
 - 📈 I build insightful reports and dashboards using **Power BI & Tableau** to drive data-driven decision-making.
-- 🗃️ I am proficient in **SQL** for data extraction, manipulation, and complex querying.
+- 🗃️ I am proficient in **SQL** (including **MySQL** and **MS SQL Server**) for data extraction, manipulation, and complex querying.
 - 🌐 I develop clean and interactive user interfaces with **HTML, CSS, and JavaScript**.
 - 🌱 I am constantly exploring new technologies to enhance my skillset in both data and development domains.
 
 ---
 
-## 📊 Data Analytics & Business Intelligence Portfolio
+## <p align="center">📊 Data Analytics & Business Intelligence Portfolio</p>
 
-My expertise lies in developing end-to-end BI solutions, from data cleaning and modeling to creating interactive and insightful dashboards.
+<p align="center">My expertise lies in developing end-to-end BI solutions, from data cleaning and modeling to creating interactive and insightful dashboards.</p>
 
-**Core Competencies:**
-<p align="left">
+<p align="center">
+  <strong>Tools & Technologies:</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
@@ -57,38 +60,38 @@ My expertise lies in developing end-to-end BI solutions, from data cleaning and 
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
-**Featured Projects:**
+**<p align="center">Featured Projects</p>**
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">HR Analytics Dashboard</h3>
-      <br />
       <a href="(URL_TO_LIVE_INTERACTIVE_DASHBOARD_HR)" target="_blank">
         <img src="(URL_TO_YOUR_DASHBOARD_SCREENSHOT_HR.png)" alt="HR Analytics Dashboard Screenshot"/>
       </a>
-      <br />
       <p align="center">
         A Power BI dashboard providing insights into employee turnover, demographics, and performance metrics to support strategic HR decisions.
-      <br/>
-      <a href="https://github.com/tejas-0905/HR-Analytics-Dashboard" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/>
-      </a>
+        <br/><br/>
+        <strong>Key Technologies:</strong> Power BI, SQL
+        <br/><br/>
+        <a href="https://github.com/tejas-0905/HR-Analytics-Dashboard" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/>
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sales Insights Dashboard</h3>
-      <br />
       <a href="(URL_TO_LIVE_INTERACTIVE_DASHBOARD_SALES)" target="_blank">
         <img src="(URL_TO_YOUR_DASHBOARD_SCREENSHOT_SALES.png)" alt="Sales Insights Dashboard Screenshot"/>
       </a>
-      <br />
       <p align="center">
-      An end-to-end sales analysis dashboard in Power BI/Tableau, tracking revenue, profit margins, and key performance indicators across various regions.
-      <br/>
-       <a href="https://github.com/tejas-0905/Sales-Insights-Dashboard" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/>
-      </a>
+        An end-to-end sales analysis dashboard, tracking revenue, profit margins, and key performance indicators across various regions.
+        <br/><br/>
+        <strong>Key Technologies:</strong> Power BI, Tableau, MySQL
+        <br/><br/>
+         <a href="https://github.com/tejas-0905/Sales-Insights-Dashboard" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/>
+        </a>
       </p>
     </td>
   </tr>
@@ -96,12 +99,13 @@ My expertise lies in developing end-to-end BI solutions, from data cleaning and 
 
 ---
 
-## 🌐 Front-End Web Development Portfolio
+## <p align="center">🌐 Front-End Web Development Portfolio</p>
 
-I specialize in building responsive and dynamic websites using modern web technologies.
+<p align="center">I specialize in building responsive and dynamic websites using modern web technologies.</p>
 
-**Core Competencies:**
-<p align="left">
+<p align="center">
+  <strong>Tools & Technologies:</strong>
+  <br/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -109,7 +113,7 @@ I specialize in building responsive and dynamic websites using modern web techno
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-**Featured Projects:**
+**<p align="center">Featured Projects</p>**
 
 <table>
   <tr>
@@ -133,10 +137,12 @@ I specialize in building responsive and dynamic websites using modern web techno
 </table>
 
 ---
-### 📊 GitHub Stats
+### <p align="center">📊 My GitHub Stats</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&locale=en&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-0905&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejas-0905&theme=tokyonight&hide_border=true" alt="GitHub Streak" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&locale=en&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-0905&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejas-0905&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
