@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=tejas-0905&label=PROFILE+VIEWS&color=0066CC&style=flat" alt="Profile views"/>
   <h1>
@@ -8,7 +6,7 @@
   </h1>
   <p align="center">
     <a href="https://github.com/tejas-0905">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&color=0066CC&center=true&vCenter=true&width=435&lines=Data+Analyst;BI+Developer;SQL+Expert;Front-End+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&color=0066CC&center=true&vCenter=true&width=435&lines=Data+Analyst;BI+Developer;SQL+Expert;Power+BI+%7C+Tableau+%7C+Excel+Dashboards;Always+Learning+Something+New!" alt="Typing SVG" />
     </a>
   </p>
 
@@ -29,19 +27,8 @@
 </div>
 
 ---
-<!-- Animated GitHub Profile for Tejas -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I'm+Tejas;Data+Analyst+|+SQL+|+Power+BI+|+Tableau;Welcome+to+my+GitHub!&center=true&size=24">
-</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26Ff9KQj5Km5dPxGo/giphy.gif" width="150" height="150" />
-</p>
-
----
-
-### 🚀 Tools & Technologies
+### 🛠️ Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -50,41 +37,32 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Contribution Activity
+### 📊 GitHub Activity in 2025
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&theme=radical&hide_title=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0905&layout=compact&theme=radical&hide=html" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-0905&theme=tokyonight&hide_border=true" height="180px"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tejas-0905&theme=rogue&area=true" />
-</div>
-
----
-
-### 🧩 Contribution Breakdown
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas-0905&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejas-0905&theme=tokyonight&utcOffset=+5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejas-0905&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejas-0905&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-0905&theme=react-dark&hide_border=true&custom_title=My+GitHub+Contributions+in+2025" />
 </div>
 
 ---
 
-### 🎯 Focus Areas
+### 📌 Contributions Breakdown (2025)
 
-```text
-🔸 Data Wrangling, Cleaning & Visualization  
-🔸 Dashboards using Power BI & Tableau  
-🔸 Writing efficient SQL queries for insights  
-🔸 Python scripting for data analysis  
-🔸 Communicating data with clarity
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas-0905&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejas-0905&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejas-0905&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejas-0905&theme=vue&utcOffset=+5.5" />
+</div>
 
+---
+
+> 🔍 *Turning raw data into clear stories.*
