@@ -29,120 +29,62 @@
 </div>
 
 ---
+<!-- Animated GitHub Profile for Tejas -->
 
-### <p align="center">👨‍💻 About Me</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I'm+Tejas;Data+Analyst+|+SQL+|+Power+BI+|+Tableau;Welcome+to+my+GitHub!&center=true&size=24">
+</h1>
 
 <p align="center">
-  I am a detail-oriented professional who bridges the gap between <b>data analytics</b> and <b>web development</b>. 
-  <br/>
-  My passion lies in transforming raw data into actionable insights through intuitive dashboards and crafting responsive, user-friendly web experiences.
+  <img src="https://media.giphy.com/media/26Ff9KQj5Km5dPxGo/giphy.gif" width="150" height="150" />
 </p>
-
-- 📈 I build insightful reports and dashboards using **Power BI & Tableau** to drive data-driven decision-making.
-- 🗃️ I am proficient in **SQL** (including **MySQL** and **MS SQL Server**) for data extraction, manipulation, and complex querying.
-- 🌐 I develop clean and interactive user interfaces with **HTML, CSS, and JavaScript**.
-- 🌱 I am constantly exploring new technologies to enhance my skillset in both data and development domains.
 
 ---
 
-## <p align="center">📊 Data Analytics & Business Intelligence Portfolio</p>
-
-<p align="center">My expertise lies in developing end-to-end BI solutions, from data cleaning and modeling to creating interactive and insightful dashboards.</p>
+### 🚀 Tools & Technologies
 
 <p align="center">
-  <strong>Tools & Technologies:</strong>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-**<p align="center">Featured Projects</p>**
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">HR Analytics Dashboard</h3>
-      <a href="(URL_TO_LIVE_INTERACTIVE_DASHBOARD_HR)" target="_blank">
-        <img src="(URL_TO_YOUR_DASHBOARD_SCREENSHOT_HR.png)" alt="HR Analytics Dashboard Screenshot"/>
-      </a>
-      <p align="center">
-        A Power BI dashboard providing insights into employee turnover, demographics, and performance metrics to support strategic HR decisions.
-        <br/><br/>
-        <strong>Key Technologies:</strong> Power BI, SQL
-        <br/><br/>
-        <a href="https://github.com/tejas-0905/HR-Analytics-Dashboard" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Sales Insights Dashboard</h3>
-      <a href="(URL_TO_LIVE_INTERACTIVE_DASHBOARD_SALES)" target="_blank">
-        <img src="(URL_TO_YOUR_DASHBOARD_SCREENSHOT_SALES.png)" alt="Sales Insights Dashboard Screenshot"/>
-      </a>
-      <p align="center">
-        An end-to-end sales analysis dashboard, tracking revenue, profit margins, and key performance indicators across various regions.
-        <br/><br/>
-        <strong>Key Technologies:</strong> Power BI, Tableau, MySQL
-        <br/><br/>
-         <a href="https://github.com/tejas-0905/Sales-Insights-Dashboard" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
-## <p align="center">🌐 Front-End Web Development Portfolio</p>
+### 📊 GitHub Stats & Contribution Activity
 
-<p align="center">I specialize in building responsive and dynamic websites using modern web technologies.</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&theme=radical&hide_title=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0905&layout=compact&theme=radical&hide=html" height="180px" />
+</div>
 
-<p align="center">
-  <strong>Tools & Technologies:</strong>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-**<p align="center">Featured Projects</p>**
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Car Dekho Website</h3>
-      <p align="center">
-        <a href="https://github.com/tejas-0905/Car-Dekho-Website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejas-0905&repo=Car-Dekho-Website&theme=tokyonight" alt="Car Dekho Project"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Personal Portfolio</h3>
-      <p align="center">
-        <a href="https://github.com/tejas-0905/Portfolio-Website" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tejas-0905&repo=Portfolio-Website&theme=tokyonight" alt="Portfolio Project"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tejas-0905&theme=rogue&area=true" />
+</div>
 
 ---
-### <p align="center">📊 My GitHub Stats</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&locale=en&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-0905&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejas-0905&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🧩 Contribution Breakdown
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejas-0905&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tejas-0905&theme=tokyonight&utcOffset=+5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tejas-0905&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejas-0905&theme=tokyonight" />
+</div>
+
+---
+
+### 🎯 Focus Areas
+
+```text
+🔸 Data Wrangling, Cleaning & Visualization  
+🔸 Dashboards using Power BI & Tableau  
+🔸 Writing efficient SQL queries for insights  
+🔸 Python scripting for data analysis  
+🔸 Communicating data with clarity
+
