@@ -61,10 +61,7 @@
 
 ### <h1 align="center"> GitHub Activity in 2025 </h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-0905&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-0905&theme=github_dark&hide_border=true" height="180px"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tejas-0905&theme=github-compact&hide_border=true&custom_title=My+GitHub+Contributions+in+2025" />
