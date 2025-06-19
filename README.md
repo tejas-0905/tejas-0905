@@ -24,7 +24,6 @@
     </a>
   </div>
 </div>
-
 ---
 
 ###  <h1 align="center">Tools & Technologies</h1>
