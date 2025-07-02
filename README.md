@@ -5,7 +5,6 @@
   <img align="top" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0905&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=highcontrast&hide_border=true" />
 </p>
