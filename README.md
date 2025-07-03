@@ -13,7 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=tejas-0905&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-  <h2 align="center" style="margin: 0; padding: 0;">Till now I have worked on these Tech Stack</h2>
+  <h2 align="center" style="margin: 0; padding: 0;">Till now I have worked on these Techs</h2>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />
