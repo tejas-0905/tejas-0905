@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Tejas Jiddewar</h2>
-<p align="center"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=tejas-0905&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /></p>
-<p align = "center"> <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0905&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
+<p align="center"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=tejas-0905&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" /></p>
+<p align = "center"> <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0905&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
 <p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=highcontrast&hide_border=true" /></p>
 
 [![](https://visitcount.itsvg.in/api?id=tejas-0905&icon=0&color=0)](https://visitcount.itsvg.in)
