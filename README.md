@@ -43,5 +43,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tejas-0905/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/tejas-0905/count.svg?"/>
 </div>
