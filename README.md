@@ -1,3 +1,9 @@
+###
+<h1 align="center">
+  <img src="https://komarev.com/ghpvc/?username=tejas-0905&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</h1>
+
+
 <h2 align="center">Hi 👋, I'm Tejas Jiddewar</h2>
 <p align="center"><img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=tejas-0905&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" /></p>
 <p align = "center"> <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-0905&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /></p>
@@ -40,8 +46,5 @@
 </div>
 
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tejas-0905/count.svg?"/>
-</div>
+
