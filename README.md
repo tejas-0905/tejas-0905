@@ -12,7 +12,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
 
-###
+---
+
+<p align="center">
+  <img height="200"
+    src="https://stats.dooboo.io/api/github-stats?login=tejas-0905&theme=onedark&hide_border=true&border_radius=20&bg=00000020"
+  />
+</p>
+
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=onedark&hide_border=true" />
+</p>
+
+---
 
 <div align="center">
   <a href="mailto:tejasjiddewar955@gmail.com" target="_blank">
