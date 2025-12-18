@@ -17,7 +17,7 @@
 
 <p align="center">
   <img height="200"
-    src="https://stats.dooboo.io/api/github-stats?login=tejas-0905&theme=onedark&hide_border=true&border_radius=20&bg=00000020"
+    src="https://stats.dooboo.io/api/github-stats?login=tejas-0905&theme=dark&hide_border=true&border_radius=20&bg=00000020"
   />
 </p>
 
