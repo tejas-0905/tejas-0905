@@ -29,7 +29,7 @@
 ---
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=onedark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=dark&hide_border=true" />
 </p>
 
 ---
