@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor;Always+Learning+New+Things" />
 </p>
+<p>Computer Science undergraduate specializing in Data Science at Shri Ramdeobaba College of Engineering & Management (RCOEM). Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming (Java). Skilled in transforming raw data into actionable insights using analytics and data visualization tools. Passionate about building clean, efficient, and scalable solutions, with interests in Data Analytics, Data Engineering, and Software Development.</p>
 
 ---
 
