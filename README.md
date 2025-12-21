@@ -10,8 +10,8 @@
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Open+Source+Contributor" />
-</p>
-<p>Computer Science undergraduate specializing in Data Science at Shri Ramdeobaba College of Engineering & Management (RCOEM). Possesses a strong foundation in Data Structures, Algorithms, and Object-Oriented Programming (Java). Experienced in transforming raw data into meaningful, actionable insights through analytics and data visualization. Passionate about designing clean, efficient, and scalable solutions, with a keen interest in Data Analytics, Data Engineering, and Software Development</p>
+<p>Computer Science undergraduate specializing in Data Science at Shri Ramdeobaba College of Engineering & Management (RCOEM).
+Strong foundation in Data Structures, Algorithms, and Object-Oriented Programming (Java), with hands-on experience in data analysis, visualization, and building data-driven solutions. Skilled at converting raw data into clear, actionable insights that support informed decision-making. Passionate about developing clean, efficient, and scalable software, with strong interests in Data Analytics, Data Engineering, and Full-Stack Software Development.</p>
 
 ---
 
