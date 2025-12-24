@@ -21,13 +21,7 @@ Strong foundation in Data Structures, Algorithms, and Object-Oriented Programmin
   />
 </p>
 
-<!-- themees-->
----
-<p align="center">
-  <img align="top" height="200" src="https://github-readme-stats.vercel.app/api?username=tejas-0905&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
 
----
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=dark&hide_border=true" />
