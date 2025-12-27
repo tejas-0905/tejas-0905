@@ -17,14 +17,14 @@ Strong foundation in Data Structures, Algorithms, and Object-Oriented Programmin
 
 <p align="center">
   <img height="200"
-    src="https://stats.dooboo.io/api/github-stats?login=tejas-0905&theme=dark&hide_border=true&border_radius=20&bg=00000020"
+    src="https://stats.dooboo.io/api/github-stats?login=tejas-0905&theme=dracula&hide_border=true&border_radius=20&bg=00000020"
   />
 </p>
 
 
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=dark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-0905&theme=dracula&hide_border=true" />
 </p>
 
 ---
