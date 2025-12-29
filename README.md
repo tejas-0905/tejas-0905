@@ -37,15 +37,15 @@ Strong foundation in Data Structures, and Object-Oriented Programming (Java), wi
 
 ### Frameworks:
 
-| TensorFlow | Keras | Scikit-Learn |
-|---|---|---|
-| <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"> |
+| React-Native | Streamlit | 
+|---|---|
+| <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48"> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48"> ||
 
 ### Tools:
 
-| VS Code | Anaconda | Tableau | IntelliJ |
-|---|---|---|---|
-| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Powerbi.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
+| VS Code | Tableau | IntelliJ |
+|---|---|---|
+| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
 
 
 --- 
