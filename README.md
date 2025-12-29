@@ -29,6 +29,27 @@ Strong foundation in Data Structures, and Object-Oriented Programming (Java), wi
 
 ---
 
+### Languages:
+
+| Python | SQL | Java |
+|---|---|---|
+| ![Python Logo](https://img.icons8.com/color/48/000000/python.png) | ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) | ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
+
+### Frameworks:
+
+| TensorFlow | Keras | Scikit-Learn |
+|---|---|---|
+| <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48"> |
+
+### Tools:
+
+| VS Code | Anaconda | Tableau | IntelliJ |
+|---|---|---|---|
+| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Powerbi.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
+
+
+--- 
+
 <div align="center">
   <a href="mailto:tejasjiddewar955@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
