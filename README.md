@@ -29,24 +29,40 @@ Strong foundation in Data Structures, and Object-Oriented Programming (Java), wi
 
 ---
 
-### Languages:
+
+<div align="center">
+
+### Languages
 
 | Python | SQL | Java |
 |---|---|---|
-| ![Python Logo](https://img.icons8.com/color/48/000000/python.png) | ![SQL Logo](https://img.icons8.com/color/48/000000/sql.png) | ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) |
+| <img src="https://img.icons8.com/color/48/000000/python.png" /> | <img src="https://img.icons8.com/color/48/000000/sql.png" /> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> |
 
-### Frameworks:
+</div>
 
-| React-Native | Streamlit | 
+<br>
+
+<div align="center">
+
+### Frameworks
+
+| React Native | Streamlit |
 |---|---|
-| <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48"> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" height="48"> ||
+| <img src="https://img.icons8.com/color/48/000000/react-native.png" /> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" /> |
 
-### Tools:
+</div>
+
+<br>
+
+<div align="center">
+
+### Tools
 
 | VS Code | Tableau | IntelliJ |
 |---|---|---|
-| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="48" height="48"> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" width="48" height="48"> |
+| <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" /> | <img src="https://img.icons8.com/color/48/000000/tableau-software.png" /> | <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" /> |
 
+</div>
 
 --- 
 
