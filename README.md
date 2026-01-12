@@ -40,8 +40,6 @@ Strong foundation in Data Structures, and Object-Oriented Programming (Java), wi
 
 </div>
 
-<br>
-
 <div align="center">
 
 ### Frameworks
@@ -51,8 +49,6 @@ Strong foundation in Data Structures, and Object-Oriented Programming (Java), wi
 | <img src="https://img.icons8.com/color/48/000000/react-native.png" /> | <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48" /> |
 
 </div>
-
-<br>
 
 <div align="center">
 
