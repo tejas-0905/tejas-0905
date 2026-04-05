@@ -5,7 +5,7 @@
 
 <!-- Title -->
 <h2 align="center">Hi 👋, I'm <strong>Tejas Jiddewar</strong></h2>
-<p align="center">Java | Python | NLP | Data Analytics | Streamlit | Power BI | Tableau | MySQL | Firebase
+
 
 <!-- Typing Animation -->
 <p align="center">
